@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**toxirov-sec/toxirov-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year IT student (Business & Systems Analysis) from Tajikistan, 
+building my path into cybersecurity: SOC and GRC.
 
-Here are some ideas to get you started:
+### 🔭 What I'm doing now
+- Learning networking, Linux and Windows fundamentals
+- Completing TryHackMe paths (Pre Security → SOC Level 1)
+- Studying web security with PortSwigger Web Security Academy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Goals
+- Get a junior / intern position in information security
+- Earn CompTIA Security+ and ISO 27001 certifications
+
+### 📁 Projects
+- `tryhackme-writeups`: notes and writeups (coming soon)
+- `risk-assessment-demo`: risk assessment for a fictional company (coming soon)
+
+### 📫 Contact
+- LinkedIn: 
+- Email: svrmajorka@gmail.com
